@@ -1,4 +1,4 @@
-# Python Socket Programming.
+# Python Socket Programming
 This series of scripts is written to demonstrate the process of Python Socket Programming. 
 
 Of the various forms of Inter Process Communication (IPC), sockets are by far the most popular.
